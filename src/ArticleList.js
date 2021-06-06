@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const ArticleList = ({ articles }) => (
   <>
     <Helmet>
-      <title>Aplikasi penjualan kasir toko grosir dan eceran</title>
+      <title>Pembuatan Aplikasi dan website kasir toko resto - axcora tech</title>
       <meta
         name="description"
         content="Axcora tehcnology dev aplikasi kasir toko restoran dan pembuatan website terintegrasi"
