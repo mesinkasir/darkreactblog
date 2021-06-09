@@ -4,6 +4,10 @@ Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-rea
 
 Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
+Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
+
+Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
+
 Video [https://youtu.be/ddqrPoNV8NU](https://youtu.be/ddqrPoNV8NU)
 
 + npm install
@@ -37,6 +41,12 @@ Demo Scan here..
 Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
 
 Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
+
+Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
+
+Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
+
+Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
 
 Video [https://youtu.be/ddqrPoNV8NU](https://youtu.be/ddqrPoNV8NU)
 
