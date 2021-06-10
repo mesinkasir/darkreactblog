@@ -6,6 +6,8 @@ Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
 Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
 
+[download card themes →](https://github.com/mesinkasir/darkreactblog/tree/main/cardthemes)
+
 Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
 
 Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
@@ -45,6 +47,8 @@ Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-rea
 Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
 Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
+[download card themes →](https://github.com/mesinkasir/darkreactblog/tree/main/cardthemes)
+
 
 Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
 
