@@ -4,6 +4,12 @@ Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-rea
 
 Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
 
+Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
+
+Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
+
+Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
+
 Video [https://youtu.be/ddqrPoNV8NU](https://youtu.be/ddqrPoNV8NU)
 
 + npm install
@@ -18,13 +24,13 @@ home pages
 
 example pages
 
-![free download react website themes blog template dark mode](https://1.bp.blogspot.com/-lNjJWpRO62c/YLxfmxawFJI/AAAAAAAAO-c/NeZV3rW092M9wz3xEkQqylg77QejGTUfACLcBGAsYHQ/s1349/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2B%25283%2529.png)
+![free download react website themes blog template dark mode](https://1.bp.blogspot.com/-7ZWv36jAvtc/YMGzZMalEDI/AAAAAAAAPH8/aR5Ylcc3S98cJ1e-EuTXzYDhUrX0YWU9wCLcBGAsYHQ/s1620/react%2Bwebsite%2Btemplate%2Bthemes%2Bfree%2Bdownload%2B%25281%2529.png)
 
-example pages
+Demo Card Themes
 
-![free download react website themes blog template dark mode](https://1.bp.blogspot.com/-GLXnHS-lCu8/YLxfngx6BZI/AAAAAAAAO-k/6ZM4f8rnHss8mB4EB8YHSY1t77x8MnMJQCLcBGAsYHQ/s1449/free%2Bdownload%2Breact%2Bwebsite%2Bthemes%2Btemplate%2B%25284%2529.png)
+![free download react website themes blog template dark mode](https://1.bp.blogspot.com/-eBywqQvq2gs/YMGzY9MP1PI/AAAAAAAAPH4/e5sL6xnSPLIkFVf1W6a_RfW1ThtpNQ2bgCLcBGAsYHQ/s1874/react%2Bwebsite%2Btemplate%2Bthemes%2Bfree%2Bdownload%2B%25282%2529.png)
 
-example pages
+example card themes pages
 
 -------
 
@@ -37,6 +43,12 @@ Demo Scan here..
 Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
 
 Demo [https://kasironline.pages.dev/](https://kasironline.pages.dev/)
+
+Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
+
+Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
+
+Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
 
 Video [https://youtu.be/ddqrPoNV8NU](https://youtu.be/ddqrPoNV8NU)
 
