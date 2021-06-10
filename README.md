@@ -8,6 +8,10 @@ Demo card themes [https://axcora.pages.dev/](https://axcora.pages.dev/)
 
 [download card themes →](https://github.com/mesinkasir/darkreactblog/tree/main/cardthemes)
 
+Demo master dark [https://darkreacteweb.pages.dev/](https://darkreacteweb.pages.dev/)
+
+[download master dark themes →](https://github.com/mesinkasir/darkreacts-deploy)
+
 Demo 2 [https://sidoarjo.pages.dev/](https://sidoarjo.pages.dev/)
 
 Demo 3 [https://surabaya.pages.dev/](https://surabaya.pages.dev/)
