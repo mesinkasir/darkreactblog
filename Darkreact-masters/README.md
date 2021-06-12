@@ -1,5 +1,11 @@
 # React Dark Blog themes template
 
+------
+
+Doc and installation [https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html](https://www.hockeycomputindo.com/2021/06/free-download-react-dark-blog-themes.html)
+
+------
+
 + npm install
 + npm start
 + npm run build
